@@ -3,7 +3,7 @@
   wonAdam's TIL
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MyGitHubUsername/docsifyjs-template.svg)](https://GitHub.com/wonAdam/docsifyjs-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/MyGitHubUsername/docsifyjs-template.svg)](https://github.com/wonAdam/TIL) 
 
 >  wonAdam's TIL
 
