@@ -2,10 +2,4 @@
 - **Site Map**
     * [Diary](/Diary/)
     * [TIL](/TIL/)
-    * [UE4](/UE4/)
-    * [C++](/Cpp/)
-    * [Unity](/Unity/)
-    * [C#](/CSharp/)
-    * [Portfolio](https://www.notion.so/Portfolio-f9d19fe8a72f43f7bae1e9abe9189487)
-
     * [Study Note](/StudyNote/)
