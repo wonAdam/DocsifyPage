@@ -9,6 +9,6 @@
 
 > No plans - UMG's available delegates are dynamic delegates, which means they are ScriptDelegates under the hood. ScriptDelegates can only callback to UFunctions on UObjects, which precludes using them for lambdas.
 
-내부적으로 ScriptDelegate를 사용하고 있고 이는 UFunction이어야만 하는 것 같다.
+내부적으로 ScriptDelegate를 사용하고 있고 이는 UFunction이어야만 하고 UFunction은 멤버 함수여야만 한다.
 
-> ## 결론은 Lambda를 못 사용한다.
+> **결론은 Lambda를 사용하지 못한다.**
