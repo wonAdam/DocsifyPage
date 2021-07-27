@@ -1,3 +1,5 @@
+[:calendar:20210727](/TIL/0727)
+
 # Widget Event로 Lambda를 넣을 순 없을까?
 
 인턴 과제를 하다가 Widget Event에 Lambda를 넣으면 우아하게 해결될만한 일이 있었다.
