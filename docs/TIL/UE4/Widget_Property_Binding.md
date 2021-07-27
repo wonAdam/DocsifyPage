@@ -1,4 +1,4 @@
-[:calendar:20210727](/TIL/0727)
+[:calendar:20210727](/TIL/20210727)
 
 # Widget Property Binding
 

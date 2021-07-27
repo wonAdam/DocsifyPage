@@ -1,4 +1,4 @@
-[:calendar:20210727](/TIL/0727)
+[:calendar:20210727](/TIL/20210727)
 
 # Widget Event로 Lambda를 넣을 순 없을까?
 
