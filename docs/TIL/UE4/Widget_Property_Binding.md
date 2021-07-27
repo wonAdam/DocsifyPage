@@ -8,4 +8,6 @@
 
 [언리얼 도큐먼트](https://docs.unrealengine.com/4.26/ko/InteractiveExperiences/UMG/UserGuide/PropertyBinding/)에도 나와 있다. 
 
+![Image of Yaktocat](./img/property_bind.webp)
+
 위젯을 만들면서 종종 옆에 보이는 Bind 버튼이 무슨 역할인지 궁금했는데 이런 기능이었구만.
