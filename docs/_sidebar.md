@@ -1,5 +1,4 @@
 - [**Home**](/)
-- [**This Page**]()
 - **Site Map**
     * [Diary](/Diary/)
     * [TIL](/TIL/)
