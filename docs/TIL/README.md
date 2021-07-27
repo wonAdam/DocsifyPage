@@ -1,4 +1,4 @@
 # TIL
 
 ## 2021
-[:page_facing_up: **0726**](/TIL/0727)
+[:calendar: **0727**](/TIL/0727)
